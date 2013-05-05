@@ -1,0 +1,43 @@
+Keyboard Shortcuts (F1 = help)
+
+* Window-Key + <key>
+		key		shift		ctrl
+<key>		---------------------------------------
+ 1		MoveToScreen 0
+ 2		MoveToScreen 1
+ - W_Shrink	Vertical	Horizontal
+ + W_Enlarge	Vertical	Horizontal
+ c CloseWindow			Close
+ d Desktop	1x1		2x2
+ f Focus	EnterToFocus	ClickToFocus
+ i Info		ThisHelp	WinOptMenu	W_info
+ l Layer	lower		default(4)	top(6)		
+ m Maximize	normal		Full		Iconify
+ p Pager	pager		KillPa
+ r Resize	Resize-		Resize+
+ s shade	on		off (Mouse3)	
+ t Touchpad	on		off
+ v moVe		on
+
+* Window-key + Other Keys
+		key		Alt		shift		ctrl
+<key>		--------------------------------------------------------
+ Down		RearangeTile
+ Up		RearrangeCascade		PageCascade
+ Left		Prev.Tab	Prev.Window
+ Right		Nex.Tab		Next.Window
+ TAB		WindowList
+ Backspace							Restart
+ Menu		Menu
+ Print		WindowShot	W_DelayShot	AreaShot	ScreenShot
+
+* Numeric Pad
+ Normal		Move pages
+ Shift		Go to a different page and show menu
+ Ctrl		Show menu of page
+ Alt		Move window to a different page
+ window		Move a window and follow it
+ S-Window	Move window to page
+ Cwindow	Resize Window
+
+ vim: nospell
